@@ -27,15 +27,15 @@ body {
   }
   
   .header {
-    padding: 24px 0;
+    
   }
   
   .header-container {
-    display: flex;
+    
   }
   
   .header-nav {
-    display: flex;
+  
   }
   .nav-logo {
     font-family: "Raleway", sans-serif;
@@ -53,7 +53,7 @@ body {
   }
   
   .nav-list-link {
-    display: flex;
+   
     
     margin-left: 76px;
   }
@@ -124,7 +124,7 @@ body {
     border: none;
     
     margin: 0 auto;
-    padding: 16px 32px;
+   
   }
   
   .section-one-button:hover,
